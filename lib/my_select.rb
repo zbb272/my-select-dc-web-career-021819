@@ -7,4 +7,5 @@ def my_select(collection)
     newCollection << collection[i]
   i += 1
  end 
+ newCollection
 end
